@@ -1,0 +1,20 @@
+h1 {
+    color: gold;
+}
+
+p {
+    font-weight: bold;
+}
+
+ul {
+
+
+list-style: none;
+}
+img {
+    width: 100px;
+    height: 100px;
+    object-fit: 10px;
+    border-radius: 20
+    px;
+}
